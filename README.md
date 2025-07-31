@@ -42,3 +42,7 @@ This project is a **simple yet powerful chatbot** that can interact with users i
 ```bash
 git clone https://github.com/your-username/chatbot.git
 cd chatbot
+
+pip install -r requirements.txt
+
+python chatbot.py
